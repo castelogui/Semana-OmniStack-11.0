@@ -10,7 +10,7 @@ Agradeço a toda comunidade Rocketseat por esses conteúdos incríveis!
 
 ## Dependências necessárias para desenvolvimento
 
-npm install...
+*npm install...*
 
 ###### BACKEND
 *
