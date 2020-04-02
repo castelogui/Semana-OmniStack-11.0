@@ -17,6 +17,7 @@ describe('ONG', () => {
             .post('/ongs')
             .send({
                 name: "APAD 3",
+                username: "apad3",
                 email: "APAD3@ong.com",
                 whatsapp: "69984528875",
                 city: "Ariquemes",

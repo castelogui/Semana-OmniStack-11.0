@@ -11,20 +11,25 @@ module.exports = {
     async create(request, response) {
         const {
             name,
+            username,
             email, 
-            whatsapp, city, uf} = request.body;
+            whatsapp,
+            city,
+            uf
+        } = request.body;
 
         const id = generateUniqueId();
 
         await connection('ongs').insert({
             id,
             name,
+            username,
             email,
             whatsapp,
             city,
             uf,
         })
 
-        return response.json({ id });
+        return response.json({ id, username });
     }
 };

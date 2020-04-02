@@ -15,6 +15,7 @@ routes.get('/ongs',  OngController.index)
 routes.post('/ongs', celebrate({
     [Segments.BODY]: Joi.object().keys({
         name: Joi.string().required(),
+        username: Joi.string().required(),
         email: Joi.string().required().email(),
         whatsapp: Joi.string().required().min(10).max(11),
         city: Joi.string().required(),
