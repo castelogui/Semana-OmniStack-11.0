@@ -8,37 +8,63 @@ Agradeço a toda comunidade Rocketseat por esses conteúdos incríveis!
 
 -----------------------------------------------------
 
-###### Dependências necessárias para desenvolvimento
+## Dependências necessárias para desenvolvimento
 
 npm install...
-**BACKEND**
+
+###### BACKEND
+*
     *express*
+*
     *knex*
+*
     *crypto*
+*
     *sqlite3*
+*
     *cross-env*
+*
     *cors*
+*
     *celebrate*
+*
     *nodemon -D*
 Dependencias para testes:
+*
     *jest -D*
+*
     *supertest -D*
-**FRONTEND**
+###### FRONTEND
+*
     *axios*
+*
     *react*
+*
     *react-router-dom*
+*
     *react-dom*
+*
     *react-icons*
+*
     *react-scripts*
-**MOBILE**
+###### MOBILE
+*
     *expo*
+*
     *axios*
+*
     *expo-constants*
+*
     *expo-mail-composer*
+*
     *intl*
+*
     *react*
+*
     *react-native*
+*
     *react-dom*
+*
     *react-navigator*
 
 ------------------------------------------------------
