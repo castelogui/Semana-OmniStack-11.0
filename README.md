@@ -12,36 +12,34 @@ Agradeço a toda comunidade Rocketseat por esses conteúdos incríveis!
 
 npm install...
 **BACKEND**
-    *express
-    *knex
-    *crypto
-    *sqlite3
-    *cross-env
-    *cors
-    *celebrate
-    *nodemon -D
+    *express*
+    *knex*
+    *crypto*
+    *sqlite3*
+    *cross-env*
+    *cors*
+    *celebrate*
+    *nodemon -D*
 Dependencias para testes:
-    *jest -D
-    *supertest -D
+    *jest -D*
+    *supertest -D*
 **FRONTEND**
-    *axios
-    *react
-    *react-router-dom
-    *react-dom
-    *react-icons
-    *react-scripts
+    *axios*
+    *react*
+    *react-router-dom*
+    *react-dom*
+    *react-icons*
+    *react-scripts*
 **MOBILE**
-    *expo
-    *axios
-    *expo-constants
-    *expo-mail-composer
-    *intl
-    *react
-    *react-native
-    *react-dom
-    *react-navigator
-
-git, node, nodemon, express, knex, sqlite, reactjs, react-native, expo
+    *expo*
+    *axios*
+    *expo-constants*
+    *expo-mail-composer*
+    *intl*
+    *react*
+    *react-native*
+    *react-dom*
+    *react-navigator*
 
 ------------------------------------------------------
 
