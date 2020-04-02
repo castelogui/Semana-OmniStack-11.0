@@ -29,7 +29,6 @@ Agradeço a toda comunidade Rocketseat por esses conteúdos incríveis!
     *celebrate*
 *
     *nodemon -D*
--Dependencias para testes:
 *
     *jest -D*
 *
